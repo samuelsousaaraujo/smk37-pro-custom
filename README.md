@@ -19,3 +19,16 @@ https://github.com/m-vave/smk37_open
 ## Licenciamento
 
 Este projeto deriva do SMK37 OPEN. Os arquivos originais mantêm suas respectivas licenças e avisos de terceiros. Consulte LICENSE.md e THIRD_PARTY.md no projeto original.
+
+
+## Limitações da versão pública
+
+Esta versão contém o código-fonte experimental do SMK37 Pro Custom, incluindo as modificações MIDI destinadas ao Yamaha MODX+.
+
+Os componentes binários do SDK e os firmwares originais de recuperação não estão incluídos neste repositório.
+
+Por isso, esta versão não permite reproduzir a compilação completa do firmware sem as dependências ausentes.
+
+**Status:** código-fonte disponível para revisão. Firmware ainda não validado em hardware.
+
+Não utilizar esta versão para atualizar o teclado.
